@@ -1,6 +1,9 @@
-Hola soy Francisco Valdés y tengo 11 años cree esta pagina para poder estudiar en platzi y mostrar mis habilidades como programador
-Esta pagina es solo html y css POR AHORA puede ser que no este muy completa pero tube que hacerla en una semana y no soy tan bueno en html
-espero les guste y puedan darme sus opiniones
+Hola, soy Francisco Valdés tengo 11 años y creé este mini proyecto de una página de Dragón Ball
+Agradezco a Msparrot por ayudarme y guiarme en este desafío y también a Maxivargas por la idea 
+hice este proyecto para el desafío de Platzi. La página tiene que mejorar, pero no tuve tanto tiempo para poder hacerla, pero di mi mejor esfuerzo.
+También espero en un futuro poder agregarle python, ya que es un lenguaje que sé usar. Bueno espero que les guste si tienen preguntas o dar una opinión
+déjenla en mi correo
+
 
 1-Para utilizar mi codigo debes descargar el repositorio y abrirlo
 
