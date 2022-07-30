@@ -1,4 +1,4 @@
-Hola soy Francisco Valdés y tengo 11 años cree esta pagina para poder estudiar en platzi y mostrar mis avilidades como programador
+Hola soy Francisco Valdés y tengo 11 años cree esta pagina para poder estudiar en platzi y mostrar mis habilidades como programador
 Esta pagina es solo html y css POR AHORA puede ser que no este muy completa pero tube que hacerla en una semana y no soy tan bueno en html
 espero les guste y puedan darme sus opiniones
 
